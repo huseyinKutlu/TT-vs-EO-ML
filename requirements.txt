@@ -1,0 +1,19 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.11
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+xgboost>=2.0
+lightgbm>=4.0
+catboost>=1.2
+optuna>=3.4
+shap>=0.44
+lime>=0.2
+statsmodels>=0.14
+matplotlib>=3.7
+seaborn>=0.13
+openpyxl>=3.1
+joblib>=1.3
+dash>=2.14
+# isteğe bağlı: Boruta karşılaştırması için
+Boruta>=0.3

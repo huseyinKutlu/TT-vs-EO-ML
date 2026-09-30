@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TT-vs-EO-ML: leakage-free machine learning pipeline for testicular torsion vs epididymo-orchitis"
+version: 1.0.0
+date-released: 2026-10-01
+license: MIT
+repository-code: "https://github.com/huseyinKutlu/TT-vs-EO-ML"
+authors:
+  - family-names: Kutlu
+    given-names: Hüseyin
+    orcid: "https://orcid.org/0000-0003-0091-9984"
+    affiliation: "Adıyaman University, Faculty of Medicine, Department of Biostatistics and Medical Informatics"
+  - family-names: Çift
+    given-names: Ali
+    orcid: "https://orcid.org/0009-0001-7353-8798"
+    affiliation: "Adıyaman University, Faculty of Medicine, Department of Urology"
+keywords:
+  - testicular torsion
+  - epididymo-orchitis
+  - machine learning
+  - explainable AI
+  - nested cross-validation
+  - nomogram

@@ -1,0 +1,10 @@
+# data and results are NOT published (clinical data)
+data.xlsx
+*.xlsx
+*.csv
+outputs/
+final_models/
+*.joblib
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
